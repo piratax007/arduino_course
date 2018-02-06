@@ -51,4 +51,11 @@ Podrás concentrarte en alcanzar el máximo nivel en uno de estos roles o podrá
 
 Utilizando una herramienta como [avatarmaker][1] desarrolla tu propio avatar con fondo transparente. Recibirás estas tres medallas personalizadas.
 
+#### MISIÓN CUBE
+
+Construye un cubo de 64 leds de acuerdo a [esta guía][2].
+
+Tus compañeros votarán por el cubo con más recorridos de encendido - apagado diferentes, el cubo que más puntos reciba ganará el mismo número de puntos _HACKER_. También votarán por el diseño más creativo, el cubo que reciba más puntos ganará el mismo número de puntos _PIONEER_. El _ACHIEVER_ del equipo que gane una o las dos de estas menciones obtendrá 10 puntos _ACHIEVER_ adicionales.
+
 [1]: http://avatarmaker.com/
+[2]: https://github.com/piratax007/arduino_course/blob/master/Documentos/cube_guide.pdf
