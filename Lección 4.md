@@ -76,7 +76,7 @@ Adicionalmente este sensor tiene un tiempo de **reset** después de hacer una le
 
 Estos tiempos deben tomarse en cuenta al momento de utilizar este sensor en nuestros montajes.
 
-## Montaje 2 - Sensor de parqueo
+## Montaje 2 - Sensor HC-SR04 Ultrasónico
 
 
 

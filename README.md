@@ -26,6 +26,17 @@ El curso tiene por objetivo general introducir a los estudiantes en el diseño i
   3. Bluethooth
   4. Wifi
 
+## Accede a las lecciones
+
+1. **Lección 1:** Estás en la lección 1.
+2. [**Lección 2:** Trabajo Colaborativo con GitHub.][1]
+3. [**Lección 3:** Introducción][2]
+4. [**Lección 4:** Sensores][3]
+
 ## Materiales y referencias
 
 **Fausto M. Lagos Suárez - @piratax007** es Licenciado en Matemáticas y Estadística por la UPTC (Colombia), Máster en Ingeniería Computacional y Matemática por la URV (España). Actualmente trabaja con investigación en sistemas dinámicos aplicados al modelamiento neuronal.
+
+[1]:https://github.com/piratax007/arduino_course/blob/master/Lecci%C3%B3n%202.md
+[2]:https://github.com/piratax007/arduino_course/blob/master/Lecci%C3%B3n%203.md
+[3]:https://github.com/piratax007/arduino_course/blob/master/Lecci%C3%B3n%204.md
