@@ -2,6 +2,19 @@
 
 **2 sesiones: 1 hora / sesión**
 
+<!-- TOC -->
+
+- [Lección 3 - Introducción](#lecci%C3%B3n-3---introducci%C3%B3n)
+  - [¿Qué es la electrónica digital?](#%C2%BFqu%C3%A9-es-la-electr%C3%B3nica-digital)
+  - [¿Qué es Arduino?](#%C2%BFqu%C3%A9-es-arduino)
+  - [Probador de leds](#probador-de-leds)
+    - [Objetivo](#objetivo)
+    - [Materiales](#materiales)
+    - [Antes de empezar](#antes-de-empezar)
+    - [Montaje 0](#montaje-0)
+
+<!-- /TOC -->
+
 ## ¿Qué es la electrónica digital?
 
 La electrónica digital es la parte de la electrónica que se encarga del tratamiento binario (0-1) de la información. Esta característica le permite a la electrónica digital ser susceptible de programación mediante álgebra booleana y códigos binarios lo cual le proporciona una potencia extra para el análisis de señales. La electrónica digital, gracias al avance en el desarrollo de microcontroladores y micropocesadores es una ciencia que permite cada dia mayor precisión en el tratamiento y procesamiento informático de la información.
@@ -20,7 +33,7 @@ El **software** es un IDE de programación basada en processing desde el cual se
 
 <img src="./images/arduinoIDE.png">
 
-La **comunidad** esta conformada por todos quienes integramos el movimiento _maker_ (hágolo usted mismo). Un grupo de personas que a nivel mundial destaca por su interés en aprender a hackear la electrónica digital.
+La **comunidad** esta conformada por todos quienes integramos el movimiento _maker_ (hágalo usted mismo). Un grupo de personas que a nivel mundial destaca por su interés en aprender a hackear la electrónica digital.
 
 ## Probador de leds
 

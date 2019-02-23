@@ -3,6 +3,14 @@
 
 **2 Sesiones: 1 hora / sesión**
 
+<!-- TOC -->
+
+- [Trabajo colaborativo con GitHub](#trabajo-colaborativo-con-github)
+  - [GitHub](#github)
+  - [Documentar el desarrollo de cada proyecto](#documentar-el-desarrollo-de-cada-proyecto)
+
+<!-- /TOC -->
+
 Uno de los principales objetivos del curso es comunicar a los estudiantes las estrategias mínimas requeridas para desempeñar un rol específico dentro de un equipo de trabajo. En esta etapa del curso se conformarán equipos de trabajo de mínimo 4 integrantes (máximo 6). Cada integrante del equpo deberá asumir uno de los siguientes roles:
 
 - **Líder:** Será el encargado de asumir la responsabilidad de mantener el repositorio de cada proyecto así como de verificar que las subtareas de desarrollo se cumplan. Coordinará la adquisición de materiales, la organización temporal y presentará informes de desempeño de los demás integrantes del equipo.
@@ -14,7 +22,7 @@ Uno de los principales objetivos del curso es comunicar a los estudiantes las es
 
 GitHub es la más grande plataforma web (junto a GitLab) para el control de versiones basado en Git.
 
-En esta presentación podrás ampliar información de manera precisa sobre qué es Git, cuál es el principio de trabajo con Git, qué es GitHub y cómo empezar a organizar repositorios compartidos en Git Hub.
+En [esta presentación][2] podrás ampliar información de manera precisa sobre qué es Git, cuál es el principio de trabajo con Git, qué es GitHub y cómo empezar a organizar repositorios compartidos en GitHub.
 
 ## Documentar el desarrollo de cada proyecto
 
@@ -28,3 +36,4 @@ Los estudiantes presentarán informes de documentación de cada proyecto en el r
 - Firmware para Arduino: Código de Arduino debidamente documentado (comentado) y organizado de acuerdo a los criterios de modularidad y reuso.
 
 [1]:https://en.wikipedia.org/wiki/Design#Approaches_to_design
+[2]:https://github.com/piratax007/arduino_course/blob/master/presentaciones/GitHub.pdf
